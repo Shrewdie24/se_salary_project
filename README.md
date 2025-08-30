@@ -22,3 +22,6 @@ To run this project, you need:
 You can install the required dependencies using the following command:
 ```bash
 pip install -r requirements.txt
+
+# You can use this to get your test browser
+C:\Users\user>"C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222 --user-data-dir="C:\Users\user\ChromeDebug"
